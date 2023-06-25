@@ -1,5 +1,9 @@
 ## 👋 Welcome to my GitHub world, where innovation meets code - [Umair Syed](https://github.com/umairian)
 
+
+![Umair Syed](https://readme-typing-svg.demolab.com/?font=Consolas&weight=600&pause=1000&color=F58A02&center=true&vCenter=true&width=435&lines=Full+Stack+Polyglot+Developer)
+
+
 <p align="center"><br/>
  <a href="https://www.linkedin.com/in/umairian/">
   <img src="https://img.shields.io/badge/linkedin-Umair%20Syed-blue?style=flat-square&logo=linkedin">
