@@ -2,10 +2,10 @@
 
 <p align="center"><br/>
  <a href="https://www.linkedin.com/in/umairian/">
-  <img src="https://img.shields.io/badge/linkedin-Timothy%20James-blue?style=flat-square&logo=linkedin">
+  <img src="https://img.shields.io/badge/linkedin-Umair%20Syed-blue?style=flat-square&logo=linkedin">
  </a>
  <a href="mailto:itsumairsyed@gmail.com">
-  <img src="https://img.shields.io/badge/Email-tim.james.work9800%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-itsumairsyed%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
  </a>
 </p>
 
