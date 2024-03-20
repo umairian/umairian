@@ -1,4 +1,4 @@
-## 👋 Welcome to my GitHub world, where innovation meets code - [Umair Syed](https://github.com/umairian)
+## 👋 Welcome to my Contribution Universe  - [Umair Syed](https://github.com/umairian)
 
 
 ![Umair Syed](https://readme-typing-svg.demolab.com/?font=Consolas&weight=600&pause=1000&color=F58A02&center=true&vCenter=true&width=435&lines=Full+Stack+Polyglot+Developer)
@@ -13,12 +13,9 @@
  </a>
 </p>
 
-- 🔭 I'm a tech magician, orchestrating the symphony of Robust technologies to craft extraordinary digital experiences
-- 🌱 To the world, I am a Full Stack Developer who believes on code for change.
-- ⚡ Though I worked in vast pool of technologies, but my expertise are Web and Mobile frontend/backend/full stack applications. 
-<br>
+Full stack developer pulling stuff from the internet to develop Software in MERN or serverless stack. 4 years in the field so far.
 
-Fuelled by an insatiable passion for the art of software craftsmanship, I unleash my creativity through elegant code, breathing life into extraordinary digital realms.
+Contributing to the community via blog writing and YouTube content creation.
 <br>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umairian&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook,Ada)
